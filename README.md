@@ -1,1 +1,0 @@
-# vortextech-aiml-week2
